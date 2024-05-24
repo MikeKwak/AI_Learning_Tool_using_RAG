@@ -1,0 +1,76 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.3",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/barlow": "^5.0.13",
+    "@fontsource/public-sans": "^5.0.18",
+    "@iconify/react": "^4.1.1",
+    "@mui/lab": "5.0.0-alpha.155",
+    "@mui/material": "^5.14.20",
+    "@mui/styled-engine": "^5.14.20",
+    "@mui/x-data-grid": "^6.18.4",
+    "@mui/x-date-pickers": "^6.18.4",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "notistack": "^3.0.1",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^20.10.4",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.43",
+    "autosuggest-highlight": "3.3.4",
+    "date-fns": "^2.30.0",
+    "framer-motion": "^10.16.16",
+    "i18next": "^23.7.8",
+    "i18next-browser-languagedetector": "^7.2.0",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.5.0",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "5.0.1",
+    "simplebar-react": "^3.2.4",
+    "stylis-plugin-rtl": "^2.1.1",
+    "typescript": "^5.3.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/autosuggest-highlight": "^3.2.3",
+    "@types/lodash": "^4.14.202",
+    "@types/mapbox-gl": "^2.7.19",
+    "@types/nprogress": "^0.2.3",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "@typescript-eslint/parser": "^6.13.2",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "globals": "^15.3.0"
+  }
+}
