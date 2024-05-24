@@ -1,4 +1,4 @@
-# Study Tool
+# AI Study Tool using RAG
 
 ## Overview
 
